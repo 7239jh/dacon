@@ -8,8 +8,8 @@
 1,2,4,5점으로 분류 되어 있는 쇼핑몰 리뷰를 학습하여 정확도 높은 4분류 모델 만들기  
   
 # 데이터셋  
-train set: id, reviews, target 열로 이루어진 한글 텍스트 데이터셋 3만개  
-test set: id, reviews열로 이루어진 한글 텍스트 데이터셋 3만개
+1.train set: id, reviews, target 열로 이루어진 한글 텍스트 데이터셋 3만개  
+2.test set: id, reviews열로 이루어진 한글 텍스트 데이터셋 3만개
 
 # 전처리  
 1. emoji를 활용한 불용어제거
